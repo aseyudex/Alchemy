@@ -1,97 +1,84 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+#Team Members
+Team Lead: Aswathy S - College of Engineering, Trivandrum
 
+Project Description
+The Emotional Budget Tracker is a web application that helps you visualize and manage your daily emotional energy. It’s for the person who feels drained after a meeting and wants to quantify exactly how much social energy they have left.
 
-## Basic Details
-### Team Name: [Name]
+The Problem (that doesn't exist)
+People often feel emotionally drained but lack the data to prove it. This leads to them being unable to optimize their daily social and professional interactions. The solution is to turn human emotions into quantifiable resources.
 
+The Solution (that nobody asked for)
+We provide a full-stack web application with a dashboard that allows users to set emotional budgets for things like "Patience," "Meeting Tolerance," and "Small-talk Energy." Users can log their emotional spending throughout the day and receive humorous alerts when their reserves are critically low.
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
+Technical Details
+Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Languages used: TypeScript, JavaScript, HTML, CSS
 
-### Implementation
+Frameworks used: Next.js (App Router), React
+
+Libraries used: Tailwind CSS, Shadcn UI, Next-Auth, Prisma, Recharts, Lucide-React, Bcryptjs
+
+Tools used: Vercel, Supabase (PostgreSQL), Git, npm
+
+Implementation
 For Software:
 # Installation
-[commands]
+1. Clone the repository: git clone [your repo link]
+2. Navigate to the project folder: cd [your project folder]
+3. Install dependencies: npm install
+4. Install Prisma client: npm install prisma @prisma/client
+5. Install bcrypt: npm install bcryptjs
+6. Install Recharts: npm install recharts
 
 # Run
-[commands]
+1. Set up your database connection string in a .env file.
+2. Run the development server: npm run dev
+3. The app will be available at: http://localhost:3000
 
-### Project Documentation
+Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](Add screenshot of the Login/Sign-up page here)
+*A clean, modern sign-in page powered by Shadcn UI and Auth.js.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](Add screenshot of the Emotional Budget setup page here)
+*The setup page where users define their daily emotional reserves.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](Add screenshot of the main tracker dashboard here)
+*The main dashboard showing emotional categories, spending buttons, and alerts.*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](Add a simple diagram of your project architecture)
+*An overview of the app's architecture, showing the user, the Next.js frontend, the API routes, and the Supabase/PostgreSQL database.*
 
 For Hardware:
+[N/A]
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+[N/A]
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+[N/A]
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+# Final Product
+[N/A]
 
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
+Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*A walkthrough of the application, demonstrating sign-up, login, tracking emotional budget, and viewing history and alerts.*
 
 # Additional Demos
-[Add any extra demo materials/links]
+[N/A]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Team Contributions
+Aswathy S: Led the full-stack development, including Next.js, Auth.js, Prisma integration, API routes, and database setup. Developed the core emotional budget tracking logic and UI.
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
