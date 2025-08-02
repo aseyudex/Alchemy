@@ -2,7 +2,7 @@
 
 
 #Team Members
-Team Lead: Aswathy S - College of Engineering, Trivandrum
+Team Lead: Aswathy S - lbsitw, Trivandrum
 
 Project Description
 The Emotional Budget Tracker is a web application that helps you visualize and manage your daily emotional energy. It’s for the person who feels drained after a meeting and wants to quantify exactly how much social energy they have left.
